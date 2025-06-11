@@ -1,8 +1,5 @@
 # WishList App
 
-![Captura de Tela do Aplicativo WishList](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/screenshot.png?raw=true)
-*(**Substitua** este link pela URL da sua captura de tela no GitHub. Recomendo criar uma pasta `Assets` ou `Screenshots` no seu repositório e colocar a imagem lá.)*
-
 Um aplicativo iOS simples e elegante para criar e organizar suas listas de desejos pessoais. Construído utilizando o framework **SwiftUI** para a interface de usuário e o **SwiftData** para persistência de dados, o WishList App oferece uma experiência nativa e fluida para que você nunca mais esqueça de um desejo.
 
 Este projeto serve como um exemplo prático da implementação de um aplicativo básico com as tecnologias mais recentes da Apple, sendo ideal para quem busca um ponto de partida para aprender sobre o desenvolvimento iOS moderno.
@@ -46,12 +43,8 @@ Este projeto serve como um exemplo prático da implementação de um aplicativo 
 
 Contribuições são bem-vindas! Se você tiver alguma ideia para melhorar o aplicativo ou encontrar algum bug, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. *(Você precisará criar um arquivo `LICENSE` no seu repositório)*
-
 ## 👨‍💻 Autor
 
 **João Felipe Schwaab**
 * [GitHub](https://github.com/jfelipeschwaab)
-* [LinkedIn]((https://www.linkedin.com/in/jo%C3%A3o-felipe-schwaab/)) 
+* [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-felipe-schwaab/) 
