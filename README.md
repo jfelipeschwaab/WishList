@@ -23,7 +23,7 @@ Este projeto serve como um exemplo prático da implementação de um aplicativo 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [(https://github.com/jfelipeschwaab/WishList.git)]
+    git clone https://github.com/jfelipeschwaab/WishList.git
     ```
     *(**Substitua** `SEU_USUARIO` e `SEU_REPOSITORIO` pelos seus dados reais)*
 
