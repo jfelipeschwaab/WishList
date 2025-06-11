@@ -25,8 +25,6 @@ Este projeto serve como um exemplo prático da implementação de um aplicativo 
     ```bash
     git clone https://github.com/jfelipeschwaab/WishList.git
     ```
-    *(**Substitua** `SEU_USUARIO` e `SEU_REPOSITORIO` pelos seus dados reais)*
-
 2.  **Abra no Xcode:** Navegue até a pasta do projeto clonado e abra o arquivo `WishList.xcodeproj`.
 
 3.  **Selecione um Simulador ou Dispositivo:** Certifique-se de que um simulador iOS (ou seu dispositivo físico) esteja selecionado como alvo de execução.
